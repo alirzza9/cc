@@ -3,7 +3,6 @@
     "vless": [],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaVBOd3RvY0NxSXhjdzNadTdka0ZJ@62.133.63.21:65262#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUUxzTktIUUNRN3Jod085R1R6RWUy@85.159.230.44:52842#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIQ29jUHhxdXdSemNralVkWmNkMGVQ@89.23.110.74:61194#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTA5VEZUd2RsbUMwcmFZYUgwT1Vj@193.17.183.40:65492#<i",
@@ -21,7 +20,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphVGR1VFdoTjF0cVB1YkZaUzFOZXda@62.133.60.60:21712#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNjdWWHUwR28xcVpURmxUbmtSWk9r@77.246.98.67:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTFR4OFJiM29QbnZ5VGEwZ3lWdzVG@dyn.HongKong.outlinekeys.net:33708#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjUW8zSUw1VkM0MjRsMlpydlRaclZS@163.172.171.137:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjUW8zSUw1VkM0MjRsMlpydlRaclZS@163.172.171.137:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRTVzaFBiS05jRWVBZlJ3Q3l0NlBm@103.106.3.170:27179#<i"
     ],
     "tuic": [],
     "hysteria": [],
