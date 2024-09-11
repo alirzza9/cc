@@ -3,7 +3,6 @@
     "vless": [],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5V09QUWhLczMyWGtsNV9jT3p1UVZn@38.180.158.38:5555#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZ29sOUJ2aG9aQVFqbktSaTVsZWV3@193.233.80.34:1080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaVdhTk11TUZUYzR4eWlnN2pHTVhO@185.247.141.87:58454#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptam5adlBTMGtwMHdUZWZSYWhOdjky@62.210.88.22:443#<i",
@@ -20,7 +19,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMk5GbER0Uk5mWFpvZlhzRGowM0hk@194.87.45.189:40076#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bU5NTVVuaVZIVTFnQktpMUtmRmR5@89.110.70.175:13402#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVakIwVWVLUFFYVV9lNDFJa3AxOFF3@185.103.103.4:1080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo9QkVnTipmOWVm@77.221.154.33:55453#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo9QkVnTipmOWVm@77.221.154.33:55453#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXFNYUlkdkxzOXpxUklGdDVueDJv@fox-usa.outlinekeys.net:34868#<i"
     ],
     "tuic": [],
     "hysteria": [],
