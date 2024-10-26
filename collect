@@ -1,8 +1,6 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/40ca0df9-8449-429a-853a-a8a0728b0ea6@194.87.71.215:2040?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=tradingview.com&amp;fp=chrome&amp;pbk=d63CyJX4LpA4oaqB-TPjsimrGYqirfWBb14P8ZPbJF4&amp;sid=#%F0%9F%87%A9%F0%9F%87%AA%20%40outlinev%20%7C%20VLESS%20%7C%2023.10%20-%2030.10"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#<i",
@@ -20,7 +18,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck96ejY4LSt2@150.241.95.62:58505#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388#<i",
         "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.92.72:8091#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.110:8118#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.110:8118#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.49.119:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
