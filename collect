@@ -1,8 +1,6 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/83b57a93-b1eb-4619-8c9e-181e1ba976b5@77.91.123.173:42947#<i"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [
         "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8009#<i",
