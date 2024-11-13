@@ -2,7 +2,9 @@
     "vmess": [],
     "vless": [],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
