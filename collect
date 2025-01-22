@@ -4,7 +4,6 @@
         "vless:\/\/5e343873-179e-4432-83a2-042f631fe877@109.104.154.221:443#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@15.237.4.86:22222#<i",
         "trojan:\/\/3723507166611775488@15.223.141.195:443#<i"
     ],
     "ss": [
@@ -19,7 +18,8 @@
         "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#<i",
         "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:3389#<i",
         "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4M096Zm00RWM2c3hmcU9Wa294ejNG@178.208.78.170:23822#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4M096Zm00RWM2c3hmcU9Wa294ejNG@178.208.78.170:23822#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@129.232.134.112:990#<i"
     ],
     "tuic": [],
     "hysteria": [],
