@@ -4,7 +4,9 @@
         "vless:\/\/5e343873-179e-4432-83a2-042f631fe877@109.104.154.221:443#<i",
         "vless:\/\/5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/sNBGK2ZtJr@18.134.212.141:1935#<i"
+    ],
     "ss": [
         "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5001#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWHVta0ZYOGJKc2Y4WEFFRHR4U1Aw@89.185.84.185:443#<i",
