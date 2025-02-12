@@ -1,8 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
-        "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@188.214.133.205:8443?security=tls&amp;sni=lt2.fromblancwithlove.com&amp;type=tcp&amp;alpn=h2#<i",
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
         "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
@@ -21,6 +19,7 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg==@95.164.34.7:8388#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWQ5MThlZi1lMTYwLTRkMGUtYTQ4YS04OWVlMTg5MWVmNDY@23.187.72.156:14889#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRHhlb0h2aUR0RUkwNjhmUTdpdjl2@178.208.78.170:23822#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRHhlb0h2aUR0RUkwNjhmUTdpdjl2@178.208.78.170:23822#<i"
     ],
     "tuic": [],
