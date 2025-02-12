@@ -4,11 +4,11 @@
         "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
         "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@188.214.133.205:8443?security=tls&amp;sni=lt2.fromblancwithlove.com&amp;type=tcp&amp;alpn=h2#<i",
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
-        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i"
+        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
+        "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNm1rZWRvbjU3ak5lM3k2ZnZIUUVU@92.246.139.24:18359#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#<i",
