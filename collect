@@ -5,12 +5,11 @@
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
-        "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
+        "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
+        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnajFkdncxNW5uakl5TVNqU2ZpY2VD@150.241.97.216:26039#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg==@95.164.34.7:8388#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWQ5MThlZi1lMTYwLTRkMGUtYTQ4YS04OWVlMTg5MWVmNDY@23.187.72.156:14889#<i",
@@ -20,7 +19,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RzloZTNqZVRWVFNLc01kSWNLeFRo@89.185.84.185:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSm1XaTlQZ25VT283dFBQM2dHRkNB@150.241.101.222:25543#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSm1XaTlQZ25VT283dFBQM2dHRkNB@150.241.101.222:25543#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y1BqOVN3aTkzY0dxUGFjVk5UTUk0@62.210.88.22:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
