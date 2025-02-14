@@ -5,11 +5,11 @@
         "vless:\/\/33c50822-dbcc-4759-97a4-cfd967233219@85.239.60.43:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=lon5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
         "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
         "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
-        "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i"
+        "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
+        "vless:\/\/c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmV0J3Q3c5TlozMFU0SkdqeU91ZEVs@159.203.79.177:17667#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmV0J3Q3c5TlozMFU0SkdqeU91ZEVs@159.203.79.177:17667#<i",
         "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.121.248:5001#<i",
