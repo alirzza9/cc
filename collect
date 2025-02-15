@@ -2,7 +2,6 @@
     "vmess": [],
     "vless": [
         "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
-        "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
         "vless:\/\/c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443#<i",
         "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i"
     ],
@@ -22,7 +21,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eVkzSGhHY0xSNG9iaU4wajdvNG9P@178.208.78.170:23822#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WUpDSjBSNFdZMU5XRlUyWQ@154.196.244.17:16007#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206WUpDSjBSNFdZMU5XRlUyWQ@154.196.244.17:16007#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1b1hsTTBQUVlLc0hhQ292d041UDh3@150.241.97.216:26039#<i"
     ],
     "tuic": [],
     "hysteria": [],
