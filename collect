@@ -6,12 +6,11 @@
         "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i",
         "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
         "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i",
-        "vless:\/\/c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443#<i"
+        "vless:\/\/c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443#<i",
+        "vless:\/\/32b2136e-9479-481d-8e75-e4fe77378480@77.239.99.180:15334?security=reality&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;type=tcp&amp;fp=chrome&amp;pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&amp;sid=c1#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg==@95.164.34.7:8388#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1b1hsTTBQUVlLc0hhQ292d041UDh3@150.241.97.216:26039#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMWFDWUJRRWN0ZzVrMWFQblE4anpjVWZPZTJnR2Y3cUthMFNWMlVNY253PQ@185.235.241.203:36572#<i",
@@ -21,7 +20,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1b1hsTTBQUVlLc0hhQ292d041UDh3@150.241.97.216:26039#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZXc2bTVYYVIxbDF0eGNyenBONHVW@194.87.45.189:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMnVESGxyd01pd1J3bjZLb3poQmFt@62.60.217.17:64552#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@142.202.51.85:5498#<i"
     ],
     "tuic": [],
     "hysteria": [],
