@@ -3,7 +3,6 @@
     "vless": [],
     "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.202.68:30332#<i",
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.169:8000#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.80:443#<i",
@@ -20,7 +19,8 @@
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.91.107.72:5500#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNnN2T3FsRXE0Qk42YkdjOVpnTjJH@62.60.217.17:64552#<i",
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.169:8000#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRkU0OWVWT2h1UjY2aEM5d0JyeFVa@52.169.50.87:64105#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRkU0OWVWT2h1UjY2aEM5d0JyeFVa@52.169.50.87:64105#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eEpvWm1jOHdPbklISkwzb3Y1Zmdl@150.241.97.216:26039#<i"
     ],
     "tuic": [],
     "hysteria": [],
