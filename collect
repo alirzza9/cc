@@ -1,8 +1,6 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/c369d666-7942-44be-b24c-3ffa0972e169@46.246.98.130:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=sto5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [
         "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#<i",
@@ -22,7 +20,8 @@
         "ss:\/\/YWVzLTI1Ni1nY206WjdaU1FSM09JOUpWUkE2Tg@23.185.248.11:17001#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.80:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.80:443#<i"
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.80:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ODRYQUpMOFNZVTVERkVPMQ@156.231.104.14:18004#<i"
     ],
     "tuic": [],
     "hysteria": [],
