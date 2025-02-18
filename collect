@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/fff50bd6-cd2c-4cd9-9f29-fb17c01c7fe3@195.15.215.198:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com&amp;type=tcp&amp;fp=chrome&amp;pbk=FpsSPBGXGa6c1mIGmCMmrnsdnVSHQAYnQNur-QMiDTw&amp;sid=65bd65cb739aeebe#<i",
         "vless:\/\/fff50bd6-cd2c-4cd9-9f29-fb17c01c7fe3@195.15.215.198:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com&amp;type=tcp&amp;fp=chrome&amp;pbk=FpsSPBGXGa6c1mIGmCMmrnsdnVSHQAYnQNur-QMiDTw&amp;sid=65bd65cb739aeebe#<i"
     ],
     "trojan": [],
@@ -22,7 +21,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZM2JqWENKYlRQbFJkeVRxRkFZR0Ra@78.129.140.11:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ@103.35.188.18:1443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ@103.35.188.18:1443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#<i"
     ],
     "tuic": [],
     "hysteria": [],
