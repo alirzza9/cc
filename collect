@@ -1,11 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/2d30c63f-bf40-41ab-8251-29c9f7a1d833@193.43.104.152:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=fra5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
+        "vless:\/\/2d30c63f-bf40-41ab-8251-29c9f7a1d833@193.43.104.152:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=fra5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
+        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg@45.140.167.94:8388#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVEV2Zmw1UEFvWHhDT3NROGh4cjZV@137.184.202.212:39051#<i",
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.169:8000#<i",
         "ss:\/\/YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.235.186:30332#<i",
