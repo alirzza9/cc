@@ -1,7 +1,8 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/4db2d7bf-c88d-4fdf-85f8-154c05202dc9@185.239.48.109:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=tel5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i"
+        "vless:\/\/4db2d7bf-c88d-4fdf-85f8-154c05202dc9@185.239.48.109:443?security=tls&amp;flow=xtls-rprx-vision&amp;sni=tel5.vpntype.dev&amp;type=tcp&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
+        "vless:\/\/7a8d981f-7b34-4c0d-a038-f048d99c34ba@89.221.224.166:443#<i"
     ],
     "trojan": [],
     "ss": [
