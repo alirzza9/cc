@@ -1,9 +1,10 @@
 {
     "vmess": [],
     "vless": [],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&amp;sni=connectwithemployers.online&amp;allowInsecure=1#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#<i",
         "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVWI3cVpkVlJteGo1TjJJWUlibGlp@45.144.55.215:5612#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#<i",
