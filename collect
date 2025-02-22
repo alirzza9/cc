@@ -1,9 +1,7 @@
 {
     "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&amp;sni=connectwithemployers.online&amp;allowInsecure=1#<i"
-    ],
+    "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#<i",
@@ -21,7 +19,8 @@
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.177.229.223:8000#<i",
         "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.177.229.223:8000#<i",
         "ss:\/\/YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFcFBsMkk0N1c0MjJnb1NyVVZUU0p0@62.210.88.22:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
