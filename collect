@@ -1,12 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp&amp;alpn=h2#<i"
+        "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp&amp;alpn=h2#<i",
+        "vless:\/\/41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443?security=tls&amp;sni=mmdserver.us.kg&amp;type=ws&amp;host=mmdserver.us.kg&amp;path=%2F%3Fed%3D2048#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.122.61:54075#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#<i",
         "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.132:2376#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#<i",
@@ -20,7 +19,8 @@
         "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.63.61:7002#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UTVLYjRyMTBXQ1hzallsVDNxVVhi@128.199.117.46:44106#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZ3BLSHJNSWFzUmt3TTU1cGI2YzhG@45.144.54.156:51587#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyeXRXWnFBbG5JYVBZNGZaZDR2UVlT@146.190.81.116:50790#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyeXRXWnFBbG5JYVBZNGZaZDR2UVlT@146.190.81.116:50790#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9102#<i"
     ],
     "tuic": [],
     "hysteria": [],
