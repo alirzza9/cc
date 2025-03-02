@@ -3,9 +3,10 @@
     "vless": [
         "vless:\/\/769165d9-7e6d-4893-8e0b-11916925164f@57.128.164.24:1210?security=reality&amp;sni=ubuntu.com&amp;type=grpc&amp;serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&amp;fp=chrome&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;sid=7fe29733#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/3763495894587285504@94.177.131.199:443?security=tls&amp;sni=nearby-sheep.goat627.mom&amp;type=tcp&amp;allowInsecure=1#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNHo1RWZlTm9EM3E0a2dtU2pCZ0NV@89.23.103.125:42090#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNHo1RWZlTm9EM3E0a2dtU2pCZ0NV@89.23.103.125:42090#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR1pCUHFUY01RTzFObzBwWU50M0ZT@157.245.119.238:45742#<i",
