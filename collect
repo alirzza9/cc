@@ -5,8 +5,6 @@
         "trojan:\/\/3763495894587285504@94.177.131.199:443?security=tls&amp;sni=nearby-sheep.goat627.mom&amp;type=tcp&amp;allowInsecure=1#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNHo1RWZlTm9EM3E0a2dtU2pCZ0NV@89.23.103.125:42090#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNHo1RWZlTm9EM3E0a2dtU2pCZ0NV@89.23.103.125:42090#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR1pCUHFUY01RTzFObzBwWU50M0ZT@157.245.119.238:45742#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMU83bGFwR3VIVG44S0h6WVR3UlFX@64.225.64.198:80#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WXA2RlRsWlZlekdsc2VvUlJBcHlq@81.19.141.45:443#<i",
@@ -20,7 +18,9 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SGZadmp1c2Nta2dQWVFucHZYcFJ5@165.232.120.176:80#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.71:443#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.71:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ@156.231.104.23:18013#<i"
     ],
     "tuic": [],
     "hysteria": [],
