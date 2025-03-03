@@ -2,10 +2,10 @@
     "vmess": [],
     "vless": [],
     "trojan": [
-        "trojan:\/\/3763495894587285504@94.177.131.199:443?security=tls&amp;sni=nearby-sheep.goat627.mom&amp;type=tcp&amp;allowInsecure=1#<i"
+        "trojan:\/\/3763495894587285504@94.177.131.199:443?security=tls&amp;sni=nearby-sheep.goat627.mom&amp;type=tcp&amp;allowInsecure=1#<i",
+        "trojan:\/\/5a741da6-cab2-4ac9-acb8-8e6661372911@194.246.114.54:443#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SGZadmp1c2Nta2dQWVFucHZYcFJ5@165.232.120.176:80#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.71:443#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.71:443#<i",
         "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#<i",
