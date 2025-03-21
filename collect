@@ -1,6 +1,8 @@
 {
     "vmess": [],
-    "vless": [],
+    "vless": [
+        "vless:\/\/ee26a997-6ad5-4160-adc7-35a803f5fe77@47.79.32.197:33792?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;type=tcp&amp;fp=chrome&amp;pbk=85EHAJweJMU14xhl2ETPxWcYDa6bOMYS0IR5-QXbS24&amp;sid=f54d2d48374323#<i"
+    ],
     "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#<i",
