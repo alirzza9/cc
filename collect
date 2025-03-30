@@ -1,11 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/65219e7e-80d3-48db-a562-d2e4b8aee553@51.161.164.74:443#<i"
+        "vless:\/\/65219e7e-80d3-48db-a562-d2e4b8aee553@51.161.164.74:443#<i",
+        "vless:\/\/f70ba59e-487f-4af8-8188-69b40bbdb071@178.23.190.216:4434?security=reality&amp;flow=xtls-rprx-vision&amp;sni=teamdocs.su&amp;type=tcp&amp;fp=chrome&amp;pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&amp;sid=1ae2fd1e1ace9935#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnNhNURGelJBTllQczV5TWV4c1ZVckM3ZDZOWThwdkJSRm40ZzFXa0Y0UjcxWTVhNkU2cVlwM1N4UDJFYVVoMnlYc0FLYlRBbTdTbUw1cWs1eE1Hb0RSakg1RjhCQlU=@166.1.157.228:55330#<i",
         "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#<i",
         "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:443#<i",
