@@ -7,7 +7,6 @@
         "trojan:\/\/installshield@38.180.249.177:8443#<i"
     ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#<i",
         "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UHg5dk9UTEM2VDQ0VDNOcEVrcXRW@62.210.88.22:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#<i",
@@ -24,7 +23,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVUVXT3FWS1d3SFBxU1ZZaldrbUpz@78.129.140.11:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
