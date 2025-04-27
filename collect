@@ -1,11 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/b3b5830b-9744-4a35-a8e0-93e2dd4c1eb7@149.56.95.142:443#<i"
+        "vless:\/\/b3b5830b-9744-4a35-a8e0-93e2dd4c1eb7@149.56.95.142:443#<i",
+        "vless:\/\/ZEDMODEON--ZEDMODEON@45.144.51.195:35036#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3amI3dTRGTGVUb0RCS2RqV2QxOHR0ZWl1WTlNUmhwZG15U3piRFJHemh0UkNIMkp4c2hLRlVqc0J2NmtZNXNqR1hQdEQ5d3dDcUpmU240ZWU4Sm1VVXJybWNvM0ZGajI=@185.5.38.111:55988#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.80:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#<i",
