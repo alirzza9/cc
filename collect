@@ -4,9 +4,10 @@
         "vless:\/\/ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&amp;sni=nextstepcareer.online&amp;allowInsecure=1#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.9:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#<i",
