@@ -3,9 +3,7 @@
     "vless": [
         "vless:\/\/715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443#<i"
     ],
-    "trojan": [
-        "trojan:\/\/4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&amp;sni=nextstepcareer.online&amp;allowInsecure=1#<i"
-    ],
+    "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNHEzZ3llTnVUY3lKYTBnc1Uxb0RL@62.60.231.81:59945#<i",
@@ -23,7 +21,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#<i",
         "ss:\/\/YWVzLTI1Ni1nY206SG40NmR6QmhoT1Q5WWxINA==@85.158.110.62:8388#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i"
     ],
     "tuic": [],
     "hysteria": [],
