@@ -3,11 +3,11 @@
     "vless": [
         "vless:\/\/6f6a5d35-4578-4c1f-8063-7b59adb207ed@185.239.48.109:443#<i",
         "vless:\/\/fc9c889a-c3ec-40d5-9049-b4c8afad07d1@91.242.241.45:443#<i",
-        "vless:\/\/c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161#<i"
+        "vless:\/\/c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbXlsQ0Vqcjc2QXJpdXVHaVlnZHVr@45.144.54.33:34803#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
