@@ -1,9 +1,10 @@
 {
     "vmess": [],
-    "vless": [],
+    "vless": [
+        "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443?security=tls&amp;sni=cdg-1.fromblancwithlove.com&amp;type=tcp&amp;alpn=h2#<i"
+    ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWlVPaGJDY3lJZGViYzBhTkdMbGFT@138.124.184.70:34868#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c3o5QkNQMnc0R3JHUEhxYTNaVFZs@77.238.229.244:12369#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQ2pscEV6aXBCemlyQlh3b19lckN3@49.12.214.250:1080#<i",
