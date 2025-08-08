@@ -3,8 +3,6 @@
     "vless": [],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk@83.217.9.210:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbUdXbkNxZFRtSkxieXgwbWJDWVNy@178.208.78.170:23822#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443?noteTelegram---@NetifyVPN---#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443?noteTelegram---@NetifyVPN---#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6dG40UHcyWFF1eS9xS0d2SGZ2Vjlzd2U2NFJtZ0UzUXlhbVRxZmY5ZGhBPQ@165.22.49.146:57905#<i",
@@ -22,7 +20,9 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443?noteTelegram---@NetifyVPN---#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8319?prefix%16%03%01%00%C2%A8%01%01#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NkR2d09PRDNDQ2VlTWlRRmJzY2du@89.110.85.176:16432#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206MnhnNUdkVVFSUWZxOThuTlM4WFc4bnZBK0l4M0pxNTBJT004cERtNnJXcz0@95.164.55.85:36170#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8319?prefix%16%03%01%00%C2%A8%01%01#<i"
     ],
     "tuic": [],
     "hysteria": [],
