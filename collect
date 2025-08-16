@@ -1,11 +1,11 @@
 {
     "vmess": [],
     "vless": [
+        "vless:\/\/e3d0de50-7673-4d13-be7b-e508632ed430@172.234.221.94:56224#<i",
         "vless:\/\/e3d0de50-7673-4d13-be7b-e508632ed430@172.234.221.94:56224#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNkxITlk4UmFlb1Jscm5oRW41ZGFy@81.19.141.45:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUnpnUG96cE5nSlpqZURKcjFhRUZV@178.208.91.118:19805#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SDJ2Y3h3R1BJdkhmRFlQY3hLN2hj@62.210.88.22:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443?note--Telegram--@NetifyVPN--#<i",
