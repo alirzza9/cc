@@ -1,11 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880#<i",
+        "vless:\/\/affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@217.170.194.203:808#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@217.170.194.203:808#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbGY4YXprVUtOQTBScXVoRWhza2Fl@172.237.65.229:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#<i",
