@@ -1,9 +1,9 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880#<i"
+    "vless": [],
+    "trojan": [
+        "trojan:\/\/vpn@45.82.14.144:2025#<i"
     ],
-    "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@37.235.49.124:808#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@178.130.43.225:2222#<i",
