@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/de332b56-8cae-4cf7-92a1-19e9f5647ce0@141.227.172.235:57249#<i",
         "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880#<i",
         "vless:\/\/ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355#<i"
     ],
@@ -22,7 +21,8 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.237.163:808#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ==@175.156.111.138:8899#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#<i"
     ],
     "tuic": [],
     "hysteria": [],
