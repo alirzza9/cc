@@ -1,8 +1,6 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/eedbf66d-aef3-4e73-b10d-e2083e783a11@83.228.210.39:443#<i"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#<i",
@@ -23,6 +21,7 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZN3VxN1dCZE1CZExBSVo3VVYxVHZj@104.192.227.162:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080?prefix%16%03%01%00%C2%A8%01%01#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206NjMwODViNTItNGIwYS00YzU3LTk0YTUtYWM2ZDM2MDQ5MzI1@84.200.91.158:443#<i",
         "ss:\/\/YWVzLTI1Ni1nY206NjMwODViNTItNGIwYS00YzU3LTk0YTUtYWM2ZDM2MDQ5MzI1@84.200.91.158:443#<i"
     ],
     "tuic": [],
