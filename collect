@@ -2,7 +2,6 @@
     "vmess": [],
     "vless": [
         "vless:\/\/34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164#<i",
-        "vless:\/\/34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880#<i",
         "vless:\/\/eeb94a25-8f00-458f-b857-34736edc97d4@141.227.172.59:14078#<i"
@@ -23,7 +22,8 @@
         "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@74.50.99.86:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@74.50.99.86:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1V2QzcVVabmdDY1ZKSFVsVzhnSTVa@77.110.109.86:4443#<i"
     ],
     "tuic": [],
     "hysteria": [],
