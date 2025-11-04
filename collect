@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/475f3b43-16cb-43c9-95e6-7294c851ab97@95.164.3.121:443#<i",
         "vless:\/\/475f3b43-16cb-43c9-95e6-7294c851ab97@95.164.3.121:443#<i"
     ],
     "trojan": [],
@@ -23,6 +22,7 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWblNMNVltWXVzRG1Nc1VWMlk5ZGg3@45.12.150.199:39447#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWblNMNVltWXVzRG1Nc1VWMlk5ZGg3@45.12.150.199:39447#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWblNMNVltWXVzRG1Nc1VWMlk5ZGg3@45.12.150.199:39447#<i"
     ],
     "tuic": [],
