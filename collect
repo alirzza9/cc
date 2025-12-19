@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001#<i",
         "vless:\/\/82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655#<i"
     ],
     "trojan": [],
@@ -23,6 +22,7 @@
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg==@5.253.41.46:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYnlwZnZxNnJhN2c0bjV5Q0NSOURvVmVHeWEyWFVVUw==@185.82.73.212:8444#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlU2b2FSVGFSN0hUc1ByRFdUNmhNNW55LTA0MWZ3YQ==@113.30.152.46:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlU2b2FSVGFSN0hUc1ByRFdUNmhNNW55LTA0MWZ3YQ==@113.30.152.46:8080#<i"
     ],
     "tuic": [],
